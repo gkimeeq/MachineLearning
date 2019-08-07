@@ -166,6 +166,7 @@ $pip install moviepy
 $pip install IPython
 $pip install visdom
 $pip install requests
+$pip install pymysql
 $pip install beautifulsoup4
 $pip install lxml  # Beautiful Soup支持Python标准库中的HTML解析器，还支持一些第三方的解析器，如不安装第三方，则用Python默认的解析器。lxml解析器更加强大，速度更快，推荐安装
 ```
